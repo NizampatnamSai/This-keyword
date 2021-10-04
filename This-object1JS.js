@@ -7,8 +7,9 @@ let Prayer ={
     
 }
 console.log(Prayer.To)*/
+/*
 To='In Lord God Almighty',
-    Name=" Jesus Name"
+Name=" Jesus Name"
 let Prayer ={
     To:'In Lord God Almighty',
     Name:" Jesus Name",
@@ -18,7 +19,7 @@ let Prayer ={
     
 }
 Prayer.print();
-console.log(Prayer)
+console.log(Prayer) */
 
 let Car={
     Name:'C class',
@@ -30,5 +31,9 @@ let Car={
         
     }
 }
-
+/*
 console.log( Car.print1())
+console.log(Object.keys(Car))
+console.log(Object.values(Car))*/
+console.log(Car)
+console.log(Car.hasOwnProperty('Name'))
